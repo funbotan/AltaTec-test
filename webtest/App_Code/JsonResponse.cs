@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Объектная модель JSON-ответа от биржи
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

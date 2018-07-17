@@ -1,3 +1,5 @@
+// Объектная модель БД
+
 using System;
 using System.Linq;
 using LinqToDB;
